@@ -1,21 +1,15 @@
-# Compiled Python files
 *.pyc
 
-# Virtual environment
 venv/
 env/
 
-# Byte-compiled / optimized Python files
 __pycache__/
 
-# PyCharm files
-.idea/
 *.iml
 *.ipr
 *.iws
 
-# Logs
+
 *.log
 
-# Environment variables
 .env
