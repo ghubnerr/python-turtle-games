@@ -6,7 +6,7 @@ The *`turtle.listen`* methods (found in the 'Using Screen Events' section inside
 ### Etch-a-Sketch
 [`etch-a-sketch.py`](etch-a-sketch.py) listens for keys such as **'W', 'A', 'S', 'D'** to move Kevin<sup>[1]</sup> around. You can clear the screen and return the Kevin to its initial position by pressing 'C'.
 
-## Object States and Instances in Python \
+## Object States and Instances in Python 
 
 ### Turtle Racing and Betting
 
