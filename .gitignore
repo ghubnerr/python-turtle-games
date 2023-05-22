@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled Python files
 *.pyc
 
@@ -19,3 +20,20 @@ __pycache__/
 
 # Environment variables
 .env
+=======
+*.pyc
+
+venv/
+env/
+
+__pycache__/
+
+*.iml
+*.ipr
+*.iws
+
+
+*.log
+
+.env
+>>>>>>> b68c2459684d3fd7e48111dcfa460b834fdc2e06
