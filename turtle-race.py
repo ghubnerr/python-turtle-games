@@ -10,7 +10,7 @@ user_bet = screen.textinput(title="Bet", prompt="Who do you think will be the wi
 colors = ['red', 'orange', 'yellow', 'green', 'blue', 'purple']
 
 
-# Creating the turtle
+# Creating the turtle (kevin)
 
 y_position = -150
 x_position = -220

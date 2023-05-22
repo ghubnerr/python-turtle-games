@@ -37,7 +37,7 @@ def clear_screen() -> None:
     """Clears the screen and sends the turtle back to the middle"""
     kevin.clear()
     kevin.reset()
-    
+
 
 screen.listen()
 screen.onkey(key="w", fun=move_forward)
@@ -46,4 +46,4 @@ screen.onkey(key="s", fun=move_backwards)
 screen.onkey(key="d", fun=turn_right)
 screen.onkey(key="c", fun=clear_screen)
 
-screen.exitonclick()
+screen.exitonclick()  # So that the interface doesn't close automatically

@@ -6,6 +6,7 @@ screen.listen()
 
 
 # Using event listeners to bind a key-stroke: https://docs.python.org/3/library/turtle.html/turtle-listen
+# These are used both for the etch-a-sketch and the snake game!
 
 def move_forwards():
     """This makes the turtle run 10 paces -- a set distance"""
