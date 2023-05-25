@@ -19,6 +19,7 @@ Additionally, the function *`screen.textinput(<title>,<prompt>)`* creates a user
 
 [`main.py`](main.py) is a Nokia-like Snake game utilizing square Turtle instances as individual segments of the snake's body. The program utilizes event listeners for arrow keys, as well as conditional statements (mainly utilizing the *`turtle.distance(<object>)`* functionality) to control whether it has touched an object or not.
 The class inheritance is used when creating [`scoreboard.py`](scoreboard.py) and [`food.py`](food.py) objects, whose super classes are the Turtle class, making them inherit the methods that allow them to be placed inside of the interface.
+At the latest, the scoreboard keeps track of the highest score by reading and writing from the file [`highscore.txt`](highscore.txt).
 
 ## Credits
 The idea for these fun projects came from Dr. Angela Yu's 100 Days of Python Bootcamp for Udemy.
