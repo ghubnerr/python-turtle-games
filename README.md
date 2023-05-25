@@ -1,5 +1,7 @@
 # Python Snake Game, Turtle Race and Etch-a-Sketch!
 
+![Capture](https://github.com/ghubnerr/python-turtle-games/assets/91924667/e759934b-34ae-48e6-b1ee-b9fe4bff36aa)
+
 ## Using Event Listeners 
 The *`turtle.listen`* methods (found in the 'Using Screen Events' section inside turtle documentation) allows the screen to wait for user's click and key strokes to perform actions. 
 
